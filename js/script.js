@@ -385,3 +385,5 @@ secr.onclick = () =>{
   brg_block.classList.toggle('brg-pos')
   secr.classList.toggle('secr-ac')
 }
+
+alert('hello word')
